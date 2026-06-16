@@ -1,5 +1,5 @@
-function Apropos() {
-  return <h1>À propos</h1>;
+function APropos() {
+  return <h1>À  Propos</h1>;
 }
 
-export default Apropos;
+export default APropos;
