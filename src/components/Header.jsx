@@ -1,7 +1,9 @@
+import logoHeader from "../assets/logo.png";
+import "./Header.css";
 function Header() {
   return (
     <header>
-      <h1>Kasa</h1>
+      <img src={logoHeader} alt="Logo Kasa" />
       <nav>
         <a href="/">Accueil</a>
         <a href="/APropos">À propos</a>
