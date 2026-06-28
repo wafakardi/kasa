@@ -9,7 +9,7 @@ function APropos() {
         title="Chez vous, partout et ailleurs"
       />
 
-      <h1>À Propos</h1>
+
     </>
   );
 }
